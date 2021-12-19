@@ -1,0 +1,44 @@
+@charset "UFT-8";
+@import url();
+
+body{
+    height:300vh;
+}
+
+*{
+    margin:0;
+    border:0;
+    padding:0;
+}
+.daddy{
+display: flex;
+margin-left: auto;
+margin-right: auto;
+
+}
+.son1{
+margin-left:50px;
+display:flex ;
+float:left;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+.p_titulo{
+margin-top:2mm;
+margin-left:-1cm; 
+}
+.lis_titulo{
+display:flex;
+float: right;
+margin-left: auto;
+margin-right: auto;
+}
+
+.son2{
+display: flex;
+margin-left: auto;
+margin-right: auto;
+}
+

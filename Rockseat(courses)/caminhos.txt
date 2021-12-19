@@ -1,0 +1,3 @@
+Caminhos absolutos tem todo o url completo, com o protocolo de internet, pasta a pasta aonde está o aqruivo requisitado.
+
+Ja relativo é relativo a pasta em que se está naquele momento. EX: ../../Imagens/foto.png
